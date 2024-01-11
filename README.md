@@ -6,7 +6,7 @@ The application uses files (categories.txt, factories.txt, items.txt, stores.txt
 This Java application showcases fundamental concepts such as object-oriented programming,
 file handling, generics, and enums. It serves as a foundation for managing and categorizing items in different domains, offering potential for further expansion and refinement.
   
-Structure  
+Structure (src/main)  
 Java Classes(Model)  
 •	Category: represents a product category  
 •	Item: base class for different types of items (edible, technical)  
