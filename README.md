@@ -47,9 +47,9 @@ FXML code for several JavaFX views
   
 •	JavaFX: Used for building the graphical user interface.  
 •	Maven: Project management and build tool.  
-•	JUnit: Testing framework for unit testing.
-
-How to use
-2.	Open the project in your preferred Java IDE(I used intellij)
-3.	Run the application, and it will read data from the provided text files (categories.txt, factories.txt, items.txt, stores.txt)  
+•	JUnit: Testing framework for unit testing.  
+  
+How to use  
+2.	Open the project in your preferred Java IDE(I used intellij)  
+3.	Run the application, and it will read data from the provided text files (categories.txt, factories.txt, items.txt, stores.txt)   
 
